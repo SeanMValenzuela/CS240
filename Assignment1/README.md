@@ -8,6 +8,7 @@ In Assignment 1, we were tasked with programming and testing four tasks: buildin
 
 When the ASCII-to-decimal converter is initially run, the terminal first asks the user what they want to convert from ASCII to decimal, whether it is a letter, number, sentence, phrase, etc. The converter will then proceed to give out the decimal values of each character line-by-line in the given input.
 
+
 ## Number-Base Converter
 
 With the number-base converter, the terminal first requests the user what base they want to convert from, whether it is binary, decimal, octal, or hexadecimal. Similarly in the next step, the terminal asks the user what base they want to convert to. Following that, the user will then input the actual number they want to convert between number-bases and the program will then output the number in the converted form. If the user enters an invalid base, an IOException will occur, and if the user enters an invalid number for the selected base, a NumberFormatException will occur.
