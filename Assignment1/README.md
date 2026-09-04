@@ -21,21 +21,21 @@ When run, the image-to-pixel converter begins by asking the user to input the fi
 The pixel-to-image converter essentially runs the opposite way of the image-to-pixel converter. The terminal first asks the user to input their desired width of the output image, and then immediately after, their desired height as well. The program also prompts the user for the name of the existing .txt file containing all of the hexcode values being translated into an image and as well as the desired filename for the output .png image. When finished, the program will produce a .png image as specified by the user and input .txt file.
 
 ## Test Evidence/Screenshots/Generated Images
-ASCII-to-Decimal Converter:
+## ASCII-to-Decimal Converter:
 <p align="center"> <img width="467" height="198" alt="ASCII-to-Decimal Converter in Action" src="https://github.com/user-attachments/assets/00beb2f1-2d7f-4aaf-ada5-e2a4b036e34c" /> </p>
-Number-Base Converter:
+## Number-Base Converter:
 Binary to Decimal:
 Hexadecimal to Octal:
 Zero (Octal to Decimal):
 Largest Supported Unsigned Value (4294967295, Decimal to Binary):
 Negative Two’s-Complement Value (-1, Decimal to Hexadecimal):
-Image-to-Pixel Converter:
+## Image-to-Pixel Converter:
 <p align="center"> <img width="688" height="80" alt="Image-to-Pixel Converter in Action" src="https://github.com/user-attachments/assets/94a3c89e-6bf9-473f-844e-58fe4948dc33" /> </p>
 Input Image (blue.png (5x5)):
 <p align="center"> <img width="693" height="267" alt="blue.png, the input image" src="https://github.com/user-attachments/assets/dc7542ad-78a7-4067-9fe9-ae166008c6b1" />
-Output File (bluepixels.txt): </p>p>
+Output File (bluepixels.txt): </p>
 
-Pixel-to-Image Converter:
+## Pixel-to-Image Converter:
 <p align="center"> <img width="691" height="114" alt="Pixel-to-Image Converter in Action" src="https://github.com/user-attachments/assets/6cd1b0f6-2fd1-46c5-8cbb-c55042085c3d" /> </p>
 Input File (bluepixels.txt):
 <p align="center"> <img width="636" height="411" alt="bluepixels.txt, the input image" src="https://github.com/user-attachments/assets/e87e0f1c-d08f-44b3-a6cd-6b6e6591a634" /> </p>
