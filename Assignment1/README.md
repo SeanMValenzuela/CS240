@@ -32,7 +32,8 @@ Hexadecimal to Octal:
 Zero (Octal to Decimal):
 <p align="left"> <img width="721" height="99" alt="Zero (0) Conversion from Octal to Decimal" src="https://github.com/user-attachments/assets/e38726a0-0596-40d8-97ae-bc16209840c7" /> </p>
 Largest Supported Unsigned Value (4294967295, Decimal to Binary):
-<p align="left"> <img width="721" height="99" alt="Largest Support Unsigned Value (4294967295) Conversion from Decimal to Binary" src="https://github.com/user-attachments/assets/1d6593d8-f133-4019-91e3-6cce2d3f1d79" /> </p>
+<p align="left"> <img width="733" height="97" alt="Largest Supported Unsigned Value (4294967295) Conversion from Decimal to Binary)" src="https://github.com/user-attachments/assets/f0bc1ef9-54e8-4123-b3fa-81c745d673c7" />
+ </p>
 Negative Two’s-Complement Value (-1, Decimal to Hexadecimal):
 <p align="left"> <img width="719" height="101" alt="Negative Two's-Complement Value (-1) Conversion from Decimal to Hexadecimal" src="https://github.com/user-attachments/assets/5aace721-5510-468c-b866-0265160802ef" /> </p>
 
