@@ -22,9 +22,24 @@ The pixel-to-image converter essentially runs the opposite way of the image-to-p
 
 ## Test Evidence/Screenshots/Generated Images
 ASCII-to-Decimal Converter:
-<img alt="ASCII-to-Decimal Converter" src="https://github.com/user-attachments/assets/d09d13dc-abba-4f89-be83-a086c3025397" />
+<img width="467" height="198" alt="ASCII-to-Decimal Converter in Action" src="https://github.com/user-attachments/assets/00beb2f1-2d7f-4aaf-ada5-e2a4b036e34c" />
 Number-Base Converter:
+Binary to Decimal:
+Hexadecimal to Octal:
+Zero (Octal to Decimal):
+Largest Supported Unsigned Value (4294967295, Decimal to Binary):
+Negative Two’s-Complement Value (-1, Decimal to Hexadecimal):
 Image-to-Pixel Converter:
+<img width="688" height="80" alt="Image-to-Pixel Converter in Action" src="https://github.com/user-attachments/assets/94a3c89e-6bf9-473f-844e-58fe4948dc33" />
+Input Image (blue.png (5x5)):
+<img width="693" height="267" alt="blue.png, the input image" src="https://github.com/user-attachments/assets/dc7542ad-78a7-4067-9fe9-ae166008c6b1" />
+Output File (bluepixels.txt):
+
 Pixel-to-Image Converter:
+<img width="691" height="114" alt="Pixel-to-Image Converter in Action" src="https://github.com/user-attachments/assets/6cd1b0f6-2fd1-46c5-8cbb-c55042085c3d" />
+Input File (bluepixels.txt):
+<img width="636" height="411" alt="bluepixels.txt, the input image" src="https://github.com/user-attachments/assets/e87e0f1c-d08f-44b3-a6cd-6b6e6591a634" />
+Output Image (bluenew.png (5x5)):
+<img width="691" height="268" alt="bluenew.png, the output image" src="https://github.com/user-attachments/assets/b7d70b1b-8157-4ed9-9815-10fef4b5a937" />
 
 ## AI Acknowledgement
