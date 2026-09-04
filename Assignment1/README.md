@@ -51,3 +51,6 @@ Output Image (bluenew.png (5x5)):
 <p align="left"> <img width="691" height="268" alt="bluenew.png, the output image" src="https://github.com/user-attachments/assets/b7d70b1b-8157-4ed9-9815-10fef4b5a937" /> </p>
 
 ## AI Acknowledgement
+- Used ChatGPT-5.6 Luna to understand how to modify code for number-base converter to support the largest supported 32-bit unsigned value of 4294967295, and representing negative values using 32-bit two’s-complement
+- Used ChatGPT-5.6 Luna to learn how to change/format ARGB color values to hexadecimal 
+- Used ChatGPT-5.6 Luna for assistance in debugging, developing and identifying appropriate test cases for the program
