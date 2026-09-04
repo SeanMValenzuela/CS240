@@ -37,9 +37,9 @@ Negative Two’s-Complement Value (-1, Decimal to Hexadecimal):
 ## Image-to-Pixel Converter:
 <p align="left"> <img width="688" height="80" alt="Image-to-Pixel Converter in Action" src="https://github.com/user-attachments/assets/94a3c89e-6bf9-473f-844e-58fe4948dc33" /> </p>
 Input Image (blue.png (5x5)):
-<p align="left"> <img width="693" height="267" alt="blue.png, the input image" src="https://github.com/user-attachments/assets/dc7542ad-78a7-4067-9fe9-ae166008c6b1" />
-Output File (bluepixels.txt): </p>
-<img width="629" height="402" alt="bluepixels.txt, the output file" src="https://github.com/user-attachments/assets/178ba553-eea1-43a4-aed0-e41f0d33b03a" />
+<p align="left"> <img width="693" height="267" alt="blue.png, the input image" src="https://github.com/user-attachments/assets/dc7542ad-78a7-4067-9fe9-ae166008c6b1" /> </p>
+Output File (bluepixels.txt):
+<p align="left"> <img width="629" height="402" alt="bluepixels.txt, the output file" src="https://github.com/user-attachments/assets/178ba553-eea1-43a4-aed0-e41f0d33b03a" /> </p>
 ## Pixel-to-Image Converter:
 <p align="left"> <img width="691" height="114" alt="Pixel-to-Image Converter in Action" src="https://github.com/user-attachments/assets/6cd1b0f6-2fd1-46c5-8cbb-c55042085c3d" /> </p>
 Input File (bluepixels.txt):
