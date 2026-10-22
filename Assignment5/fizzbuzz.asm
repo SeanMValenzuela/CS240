@@ -11,8 +11,8 @@ increment:
 	beq $t0, $t1, terminate
 	rem $t2, $t0, 3
 	rem $t3, $t0, 5
-	beq $t2, 0, fizz
-	beq $t3, 0, buzz
+	beq $t2, $zero, fizz
+	beq $t3, $zero, buzz
 	li $v0, 1
 	move $a0, $t0
 	syscall
@@ -22,7 +22,7 @@ increment:
 	addi $t0, $t0, 1
 	j increment
 fizz:
-	beq $t3, 0, fizzbuzz
+	beq $t3, $zero, fizzbuzz
 	li $v0, 4
 	la $a0, fizz_word
 	syscall
@@ -32,7 +32,7 @@ fizz:
 	addi $t0, $t0, 1
 	j increment
 buzz:
-	beq $t2, 0, fizzbuzz
+	beq $t2, $zero, fizzbuzz
 	li $v0, 4
 	la $a0, buzz_word
 	syscall
