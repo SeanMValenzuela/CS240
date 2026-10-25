@@ -6,11 +6,13 @@ fizzbuzz_word: .asciiz "fizzbuzz"
 .text
 li $t0, 1
 li $t1, 101
+li $t4, 3
+li $t5, 5
 
 increment:
 	beq $t0, $t1, terminate
-	rem $t2, $t0, 3
-	rem $t3, $t0, 5
+	rem $t2, $t0, $t4
+	rem $t3, $t0, $t5
 	beq $t2, $zero, fizz
 	beq $t3, $zero, buzz
 	li $v0, 1
